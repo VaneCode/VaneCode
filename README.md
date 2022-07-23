@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Vanessa Bonito
 #### Front-end developer
-![Front-end developer](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
+![Remote full-stack developer](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
 
 I am passionate about coding using different approaches and getting out of my comfort zone.
 
