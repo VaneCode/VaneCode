@@ -1,6 +1,9 @@
-### Hi there 👋, I'm Vanessa Bonito
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=auto&height=100"/>
+</p>
+
+I'm Vanessa Bonito
 #### Remote full-stack developer
-![Remote full-stack developer](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
 
 I am passionate about coding using different approaches and getting out of my comfort zone.
 
