@@ -10,9 +10,7 @@
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- Skills: JavaScript / React / Ruby / Rails
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to walk my dogs and read.
+- Skills: JavaScript / React / Ruby / Rails / Java / PostgreSQL / Mysql
 <br/>
 
 ---
