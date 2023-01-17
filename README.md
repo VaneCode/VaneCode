@@ -81,11 +81,11 @@ hobbies: ["Read", "Helping homeless dogs", "Work out"]
 
 ---
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<!-- <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/VaneCode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VaneCode&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaneCode&theme=react&layout=compact" />
-</a>
+</a> -->
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
